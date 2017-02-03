@@ -4,7 +4,7 @@ Este repositorio é base do tutorial de React para iniciantes.
 
 ### Motivação
 
-Atualmente existem muitos cursos/tutorials de alta qualidade, sejam estes pagos ou gratuitos, a grande maioria está em inglês (no que isso seja um grande problema), mas com intuito de gerar mais conteúdo sobre o assunto em português decidi criar essa série de videos introdutórios sobre React.
+Atualmente existem muitos cursos/tutorials de alta qualidade, sejam estes pagos ou gratuitos, a grande maioria está em inglês (não que isso seja um grande problema), mas com intuito de gerar mais conteúdo sobre o assunto em português decidi criar essa série de videos introdutórios sobre React.
 
 ### Objetivo
 
@@ -12,7 +12,7 @@ A idéia desse tutorial é criar uma pequena aplicação para controlar suas con
 
 ### Nesse tutorial você irá aprender:
 
-1. React (usando a implemtação Inferno)
+1. React (usando a implemtação [Inferno](https://infernojs.org))
 2. Componentes Funcionais
 3. Componentes Stateful
 4. Jest (basico)
@@ -28,6 +28,8 @@ Tela principal
 
 Formulário
 ![alt text](https://github.com/keuller/tutorial-contas/raw/master/screens/contas-form.png "")
+
+Nesse [link](http://keuller.com/contas) você pode ver nossa pequena aplicação em ação.
 
 ### Começando com os estudos
 
