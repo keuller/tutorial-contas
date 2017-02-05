@@ -9,9 +9,11 @@ if (!process.env.NODE_ENV) {
 const App = (props) => {
     return (
         <div>
-            <section class="section">
-                <div class="container content">
-                    <p class="has-text-centered">Template da aplicação.</p>
+            <section className="section">
+                <div className="container content">
+                    <p className="has-text-centered">
+                        <h2>Template da aplicação.</h2>
+                    </p>
                 </div>
             </section>
         </div>
