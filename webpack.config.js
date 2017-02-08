@@ -53,7 +53,7 @@ module.exports = {
 
     plugins: [
         new webpack.NoEmitOnErrorsPlugin(),
-        new ExtractTextPlugin("financial.css"),
+        new ExtractTextPlugin("contas.css"),
         new webpack.optimize.CommonsChunkPlugin({
             name: ['vendor'],
             warnings: false
